@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- displays site properly based on user's device -->
+  <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+  <title>Frontend Mentor | Todo app</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@400;700&display=swap" rel="stylesheet">
+
+  <style>
+    .attribution { font-size: 11px; text-align: center; color: hsla(235, 19%, 35%, 1);}
+    .attribution a { color: hsl(228, 45%, 44%); }
+  </style>
+
+</head>
+<body>
+  <main>
+    <div class="container">
+      <div class="heading">
+        <h1>TODO</h1>
+        <div id="icon-moon-sun"></div>
+      </div>
+
+      <form id="form" class="input-form" >
+        <button class="btn-add-task"></button>
+        <input id="input" class="task-input custom" type="text"  placeholder="Create a new todo..." required>
+      </form> 
+
+      <ul class="to-do-container">
+      </ul>
+
+      <div class="status-container">
+        <div class="scrore-end-completed">
+          <p class="items-left"><span class="score"></span></p>
+          <button class="clear-btn flex">Clear Completed</button>
+        </div>
+        <div class="filter-container ">
+          <button class="filter-btn active" id="all">All</button>
+          <button class="filter-btn" id="active">Active</button>
+          <button class="filter-btn completed" id="completed">Completed</button>
+        </div>
+      </div>
+    </div>
+
+    <script src="index.js"></script>
+    <script src="darkmode.js"></script>
+  </main>
+
+  <footer class="attribution">
+    <div class="drag">
+      <p class="drag-and-drop-text">Drag and drop to reorder list</p>
+    </div>
+    Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
+    Coded by <a href="#">Olga Borodchak</a>.
+  </footer>
+</body>
+</html>
