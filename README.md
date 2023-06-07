@@ -11,7 +11,7 @@ This is a solution to the [Todo app challenge on Frontend Mentor](https://www.fr
 ### Links
 
 - Solution URL: [https://github.com/OlgaBorodchak/To-Do-List-App.git](https://your-solution-url.com)
-- Live Site URL: [https://github.com/OlgaBorodchak/To-Do-List-App](https://your-live-site-url.com)
+- Live Site URL: [https://olgaborodchak.github.io/To-Do-List-App/](https://your-live-site-url.com)
 
 ### Built with
 
