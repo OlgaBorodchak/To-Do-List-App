@@ -10,8 +10,8 @@ This is a solution to the [Todo app challenge on Frontend Mentor](https://www.fr
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/OlgaBorodchak/To-Do-List-App.git](https://your-solution-url.com)
+- Live Site URL: [https://github.com/OlgaBorodchak/To-Do-List-App](https://your-live-site-url.com)
 
 ### Built with
 
@@ -21,5 +21,7 @@ This is a solution to the [Todo app challenge on Frontend Mentor](https://www.fr
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [https://www.youtube.com/watch?v=vBXyJWwNN-I](https://www.example.com) 
+- [https://www.youtube.com/watch?v=wodWDIdV9BY](https://www.example.com) - How to make a website light/dark toggle with CSS & JS
+- [https://www.youtube.com/watch?v=jfYWwQrtzzY](https://www.example.com) - How To Build Sortable Drag & Drop With Vanilla Javascript
+- [https://chat.openai.com/](https://www.example.com) 
