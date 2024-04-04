@@ -4,7 +4,6 @@ const toDoList = document.querySelector(".to-do-container");
 const clearCompletedBtn = document.querySelector(".clear-btn");
 const itemsCount = document.querySelector(".score");
 const allBtn = document.querySelector("#all");
-console.log(allBtn)
 const activeBtn = document.querySelector('#active');
 const completedBtn = document.querySelector('#completed');
 
