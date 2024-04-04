@@ -95,7 +95,6 @@ function saveToLocalStorage() {
 
 function filterTodos(e) {
   const filter = e.target.id; 
-  console.log(filter)
   const todoItems = document.querySelectorAll('.list'); 
 
   allBtn.classList.remove('active');
